@@ -1,0 +1,5 @@
+reset
+as lab11c.asm
+load lab11c.obj
+set PC x3000
+
